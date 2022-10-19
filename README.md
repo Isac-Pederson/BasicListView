@@ -1,6 +1,6 @@
 # basic_list_view_app
 
-A new Flutter project.
+The coolest and sweetest and coolest and sweetest Flutter project.
 
 ## Getting Started
 
